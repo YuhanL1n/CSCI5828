@@ -2,9 +2,9 @@
 
 **team members: Liangjun Song, Zhenguo Chen, Yuhan Lin**
 
-1. Define the term essential difficulties as it is used by Brooks. 
+**1. Define the term essential difficulties as it is used by Brooks. 
 Provide background and context with your answer and at least one 
-example of an essential difficulty.
+example of an essential difficulty.**
 
     Essential difficulties are those difficulties that are inherent,
     intrinsic and part of the nature of software engineering. When 
@@ -19,9 +19,9 @@ example of an essential difficulty.
     software to support opening a .jpg file yesterday. Then, they 
     suddenly change their mind and ask for this new feature.
     
-2. Define the term accidental difficulties as it is used by Brooks.
+**2. Define the term accidental difficulties as it is used by Brooks.
  Provide background and context with your answer and at least one 
- example of an accidental difficulty.
+ example of an accidental difficulty.**
 
     Accidental difficulties are those difficulties related to the 
     production of software. Accidental difficulties may differ 
@@ -35,9 +35,9 @@ example of an essential difficulty.
     in the nature of software. You may change your editor to solve
      a problem, then you may face a new one.
 
-3. List and briefly describe the four essential difficulties of developing
+**3. List and briefly describe the four essential difficulties of developing
  software systems that Brooks identifies. Provide additional examples
- of each type of the four essential difficulties.
+ of each type of the four essential difficulties.**
 
     Complexity: Software entities are complex, and the number and 
     types of the parts increase exponentially with the size of a 
@@ -62,9 +62,9 @@ example of an essential difficulty.
     documentation needs 13 aspects of the software to make itself
     clear.
 
-4. Define what Brooks means by a silver bullet and reconstruct his 
+**4. Define what Brooks means by a silver bullet and reconstruct his 
 argument as to why he believes there is no silver bullet for software
- engineering.
+ engineering.**
     
     A single technique or technology that by itself can deliver one 
     order-magnitude improvement to some aspect of software development.
@@ -80,11 +80,11 @@ argument as to why he believes there is no silver bullet for software
     technique will introduce new ones so it’s not achievable to reduce
     the accidental problems to very little.  
 
-5. In lecture, software engineering's relationship to computer science 
+**5. In lecture, software engineering's relationship to computer science 
 was described by analogy by discussing the differences between a chemist
  (chemistry) and a chemical engineer (chemical engineering). Define 
  software engineering and its relationship to computer science; make 
- use of the chemist vs. chemical engineer analogy when answering this question.
+ use of the chemist vs. chemical engineer analogy when answering this question.**
 
     In the real world, there are a lot of scientific truth about the
     world. The term ‘Engineering’ is more like a work to use those 
@@ -100,10 +100,10 @@ was described by analogy by discussing the differences between a chemist
     the computer scientists. Software engineering is an area that 
     make use of those theories in production scientifically and practically.
 
-6. In lecture, we discussed the importance of the following concepts
+**6. In lecture, we discussed the importance of the following concepts
  to software engineers: abstractions, conversations, specification, 
  translation, and iteration. Define each of these concepts as they 
- are related to software engineering and discuss their importance.
+ are related to software engineering and discuss their importance.**
     
     Abstractions: **break a big problem down into small pieces and 
     makes it understandable to others.**
