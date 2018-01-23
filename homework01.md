@@ -6,10 +6,7 @@
 Provide background and context with your answer and at least one 
 example of an essential difficulty.**
 
-    Essential difficulties are those difficulties that are inherent,
-    intrinsic and part of the nature of software engineering. When 
-    we are doing a software project, no matter what tools we choose,
-    we would always encounter some problems, such as complexity, 
+    Essential difficulties are those difficulties that are inherent, intrinsic and part of the nature of software engineering. When we are doing a software project, no matter what tools we choose, we would always encounter some problems, such as complexity, 
     conformity, changeability and invisibility problems. To make 
     a specification or design a software, we need to consider those
     properties since they are inherent in the nature of software.
