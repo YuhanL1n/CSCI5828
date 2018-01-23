@@ -2,11 +2,14 @@
 
 **team members: Liangjun Song, Zhenguo Chen, Yuhan Lin**
 
-**1. Define the term essential difficulties as it is used by Brooks. 
+1. **Define the term essential difficulties as it is used by Brooks. 
 Provide background and context with your answer and at least one 
 example of an essential difficulty.**
 
-    Essential difficulties are those difficulties that are inherent, intrinsic and part of the nature of software engineering. When we are doing a software project, no matter what tools we choose, we would always encounter some problems, such as complexity, 
+    Essential difficulties are those difficulties that are inherent,
+    intrinsic and part of the nature of software engineering. When 
+    we are doing a software project, no matter what tools we choose,
+    we would always encounter some problems, such as complexity, 
     conformity, changeability and invisibility problems. To make 
     a specification or design a software, we need to consider those
     properties since they are inherent in the nature of software.
@@ -16,7 +19,7 @@ example of an essential difficulty.**
     software to support opening a .jpg file yesterday. Then, they 
     suddenly change their mind and ask for this new feature.
     
-**2. Define the term accidental difficulties as it is used by Brooks.
+2. **Define the term accidental difficulties as it is used by Brooks.
  Provide background and context with your answer and at least one 
  example of an accidental difficulty.**
 
@@ -32,7 +35,7 @@ example of an essential difficulty.**
     in the nature of software. You may change your editor to solve
      a problem, then you may face a new one.
 
-**3. List and briefly describe the four essential difficulties of developing
+3. **List and briefly describe the four essential difficulties of developing
  software systems that Brooks identifies. Provide additional examples
  of each type of the four essential difficulties.**
 
@@ -59,7 +62,7 @@ example of an essential difficulty.**
     documentation needs 13 aspects of the software to make itself
     clear.
 
-**4. Define what Brooks means by a silver bullet and reconstruct his 
+4. **Define what Brooks means by a silver bullet and reconstruct his 
 argument as to why he believes there is no silver bullet for software
  engineering.**
     
@@ -77,7 +80,7 @@ argument as to why he believes there is no silver bullet for software
     technique will introduce new ones so it’s not achievable to reduce
     the accidental problems to very little.  
 
-**5. In lecture, software engineering's relationship to computer science 
+5. **In lecture, software engineering's relationship to computer science 
 was described by analogy by discussing the differences between a chemist
  (chemistry) and a chemical engineer (chemical engineering). Define 
  software engineering and its relationship to computer science; make 
@@ -97,7 +100,7 @@ was described by analogy by discussing the differences between a chemist
     the computer scientists. Software engineering is an area that 
     make use of those theories in production scientifically and practically.
 
-**6. In lecture, we discussed the importance of the following concepts
+6. **In lecture, we discussed the importance of the following concepts
  to software engineers: abstractions, conversations, specification, 
  translation, and iteration. Define each of these concepts as they 
  are related to software engineering and discuss their importance.**
