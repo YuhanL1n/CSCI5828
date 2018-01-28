@@ -100,3 +100,18 @@ Integer factorial(Integer n){
 In the `match` expression, if `n` is 0, it return 1. We use the wildcard `_` to match anything
 else. The `require` expression would restrict the value for parameter `n` so that when we pass
 a negative value to `factorial`, our function would throw an exception.
+
+You can also do some more complicated pattern matching with `match`. If we want to classify a input
+value as positive, negative and 0, we would need to match based on the range of input value as
+following example:
+
+```
+def classifer(n: Int): String = n match {
+  case 0 => "zero"
+  case x if x > 0 => "positive"
+  case _ => "negative"
+}
+```
+
+The above is an overview and introduction of Scala. It is a interesting programming language. I
+hope everyone of you can have fun learning Scala and functional programming!
